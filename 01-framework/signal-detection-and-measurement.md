@@ -338,7 +338,344 @@ exists in most ecosystems.
 | Utilisation rate | Share of identified instruments actually accessed by ecosystem actors — gap between availability and awareness |
 
 ### 2. Universities
-*Coming soon*
+
+*Higher education and research institutions generating 
+knowledge, technology, and talent for the ecosystem.*
+
+---
+
+### What signals to look for
+
+The most valuable university signal for EII purposes is 
+**genuine openness to industry collaboration** — identifying 
+which institutions have active programs, funded partnerships, 
+and accessible entry points for startups and companies, 
+as opposed to those that have a technology transfer office 
+on paper but no real collaborative activity behind it.
+
+A secondary but equally important signal is **research 
+and technology availability** — what is being developed, 
+at what readiness level, and whether it is accessible 
+for commercialisation or co-development.
+
+---
+
+### Tier 1 — Structured / machine-readable sources
+
+**Funded research project databases**
+When a university joins a publicly funded research 
+consortium, the project description names the 
+problem domain, the partners involved, and 
+the expected outputs. These are explicit, 
+structured collaboration signals — and the 
+presence of industry partners in the consortium 
+is the strongest possible indicator of genuine 
+openness to external engagement.
+*Examples: Horizon Europe project database, 
+national research council databases, 
+EU CORDIS platform.*
+
+**Patent filing databases**
+University patent activity reveals where 
+research is mature enough to protect — 
+and therefore close enough to 
+commercialisation to be relevant for 
+startups and industry partners. Gaps 
+in their patent landscape indicate 
+areas where they may prefer 
+collaborative development over 
+independent commercialisation.
+*Examples: EPO, USPTO, national 
+patent office databases.*
+
+**Spin-off and startup registries**
+The volume and quality of university 
+spin-offs is one of the most reliable 
+indicators of commercialisation culture. 
+Ecosystems that track spin-off formation 
+rates by institution have a direct window 
+into which universities are genuinely 
+translating research into venture activity.
+
+**Technology transfer office listings**
+Where TTOs publish available technologies, 
+licensing opportunities, and collaboration 
+frameworks — these are structured, 
+actionable signals for startups and 
+companies looking for research partners.
+
+---
+
+### Tier 2 — Semi-structured / scrapable sources
+
+**Program and consortium announcements**
+Specific programs designed for industry 
+collaboration — joint research programs, 
+industry doctoral schemes, sandbox 
+environments, innovation vouchers — 
+are the most reliable behavioural 
+signal of genuine openness. A university 
+with active, named programs is 
+categorically different from one 
+with a generic collaboration policy.
+
+**Research group and laboratory pages**
+Individual research group websites 
+often contain the most accurate 
+and up-to-date information about 
+what is being researched, at what 
+stage, and whether the group is 
+actively seeking external partners. 
+These are underutilised but 
+high-quality signals.
+
+**Event and conference activity**
+Universities hosting or co-organising 
+industry-facing events — demo days, 
+research showcases, open innovation 
+challenges — are actively signalling 
+collaboration appetite. Consistent 
+event activity over time is more 
+meaningful than a single showcase.
+
+**Job postings for industry liaison roles**
+Hiring for technology transfer officers, 
+industry partnership managers, or 
+knowledge exchange roles signals 
+institutional investment in 
+collaboration infrastructure — 
+a behavioural commitment beyond 
+policy statements.
+
+**Press releases and media announcements**
+Partnership announcements, joint 
+research agreements, and 
+commercialisation milestones. 
+Most reliable when they name 
+specific industry partners and 
+specific outcomes — generic 
+collaboration announcements 
+carry lower signal value.
+
+---
+
+### Tier 3 — Unstructured / harder to capture
+
+**Research publications with industry 
+co-authorship**
+Co-authored papers between university 
+researchers and industry partners are 
+a high-quality but underutilised signal — 
+they indicate an existing collaborative 
+relationship that may be open to 
+expansion or replication with 
+other partners.
+
+**Academic conference participation**
+Which researchers are presenting 
+at industry-facing conferences — 
+as opposed to purely academic venues — 
+signals openness to cross-sector 
+engagement. Requires monitoring 
+of event programs across 
+relevant sectors.
+
+**Informal intelligence from 
+ecosystem intermediaries**
+Accelerators, incubators, and 
+innovation agencies that have 
+worked directly with university 
+partners hold the most accurate 
+read on which institutions are 
+genuinely collaborative and 
+which are administratively 
+difficult to engage. This 
+intelligence rarely appears 
+in any structured source.
+
+---
+
+### Who inside a university holds the signal
+
+The answer varies by what you need to know 
+and by institutional structure:
+
+**Technology Transfer Officers**
+Closest to available technologies, 
+licensing opportunities, and 
+commercialisation pipeline. 
+Best signal on what is ready 
+to be taken to market or 
+developed with industry.
+
+**Industry Liaison and Partnership Offices**
+Best signal on active collaboration 
+programs, consortium memberships, 
+and institutional appetite for 
+new partnerships. Where these 
+offices are well-resourced, 
+they are the most accessible 
+and accurate entry point.
+
+**Individual Researchers and 
+Research Group Leaders**
+The most accurate signal on 
+specific research areas, 
+collaboration readiness, 
+and genuine interest in 
+industry engagement — 
+but the hardest to reach 
+systematically. Often the 
+real decision-maker on 
+whether a collaboration 
+actually happens, regardless 
+of what institutional offices say.
+
+**Vice Rector or Dean for Research 
+and Innovation**
+Best signal on institutional 
+strategy and priority areas — 
+useful for understanding 
+where the university is 
+directing resources, less 
+useful for identifying 
+specific collaboration 
+opportunities.
+
+**Universal principle:** the gap between 
+institutional policy and researcher 
+behaviour is often large. A university 
+can have an excellent industry 
+collaboration framework on paper 
+while individual researchers remain 
+inaccessible or uninterested. 
+Signal collection must reach 
+both levels to be accurate.
+
+---
+
+### Genuine openness vs. structural presence: 
+the critical distinction
+
+The most important analytical task when 
+processing university signals is 
+distinguishing genuine collaboration 
+openness from the mere existence 
+of collaboration infrastructure.
+
+A technology transfer office that 
+processes one licensing deal per year 
+is not the same as one that closes 
+twenty. A collaboration policy is 
+not the same as an active consortium. 
+An innovation lab is not the same 
+as a running industry partnership program.
+
+A reliable openness signal requires 
+evidence of at least one of the following:
+
+1. **Active named programs** with defined 
+   entry points, timelines, and 
+   available resources
+2. **Recent consortium participation** 
+   with industry partners named 
+   in funded projects
+3. **Demonstrated output** — spin-offs 
+   formed, licenses closed, 
+   joint publications with 
+   industry in the last 24 months
+
+Institutions that cannot demonstrate 
+any of these three should be classified 
+as structurally present but not 
+operationally open.
+
+---
+
+### Intent scoring
+
+| Intent level | Description | Signal indicators |
+|---|---|---|
+| **Passive** | TTO exists, no active industry engagement | Generic collaboration policy, no named programs, no recent joint activity |
+| **Emerging** | Beginning to build collaboration infrastructure | New liaison office, first industry events, pilot programs in design |
+| **Active** | Running programs with real industry engagement | Named consortium participation, active TTO pipeline, regular industry events |
+| **Mature** | Track record of successful collaborations | Multiple spin-offs, repeat industry partners, published outcomes, self-sustaining programs |
+
+The goal of the collection layer is to identify 
+universities at **Active** level or above — 
+these are the signals most immediately 
+actionable for startups and companies 
+seeking research partners.
+
+---
+
+### Normalising signals into a common schema
+
+The minimum viable schema for a 
+university signal:
+
+- **Institution profile** — size, 
+  research intensity, sector 
+  specialisations
+- **Collaboration instruments available** — 
+  programs, consortiums, 
+  licensing, joint research
+- **Technology readiness areas** — 
+  domains where research is 
+  at commercialisation-relevant stages
+- **Development phase relevance** — 
+  which Startup Commons phases 
+  this institution best supports
+- **Openness level** — using 
+  the scoring above
+- **Key contact type** — TTO, 
+  industry office, research group
+- **Signal source and date** — 
+  for freshness assessment
+- **Confidence score** — higher 
+  when corroborated by funded 
+  project data plus intermediary 
+  intelligence
+
+---
+
+### Recommended starting point
+
+For ecosystems beginning to build 
+this layer, the highest 
+signal-to-noise starting point is:
+
+1. **Funded research project databases** — 
+   consortium participation is the 
+   most reliable openness signal available
+2. **TTO listings and program pages** — 
+   structured, named opportunities 
+   with defined entry points
+3. **Ecosystem intermediary intelligence** — 
+   accelerators and innovation agencies 
+   that have direct experience 
+   engaging with local universities
+
+These three combined give a significantly 
+more accurate picture of genuine 
+university collaboration openness 
+than any amount of monitoring 
+of institutional websites or 
+policy documents.
+
+---
+
+### KPIs for this signal type
+
+| KPI | What it measures |
+|---|---|
+| Number of universities at Active level or above | Volume of genuinely open institutions in the ecosystem |
+| Active consortium participation rate | Share of universities in live industry-funded projects |
+| Spin-off formation rate by institution | Commercialisation culture indicator — trend over time |
+| TTO pipeline volume | Number of technologies available for licensing or co-development |
+| Industry co-authorship rate | Share of research publications with industry co-authors |
+| Collaboration conversion rate | Share of identified university signals that result in actual startup or company partnerships |
+| Development phase coverage | Which Startup Commons phases have strong university support signal vs. gaps |
 
 ### 3. Coworking Spaces
 *Coming soon*
