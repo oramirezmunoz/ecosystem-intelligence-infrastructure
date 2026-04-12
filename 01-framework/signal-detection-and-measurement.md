@@ -356,7 +356,316 @@ exists in most ecosystems.
 *Coming soon*
 
 ### 8. Investors
-*Coming soon*
+
+*Venture capital firms, angel investors, family offices, 
+and other capital providers active in the innovation 
+and entrepreneurship ecosystem.*
+
+---
+
+### What signals to look for
+
+The most valuable investor signal for EII purposes is 
+**active deployment readiness** — identifying which 
+investors are genuinely writing checks now, not just 
+visible in the ecosystem. These are fundamentally 
+different things, and confusing them is one of the 
+most common and costly mistakes in ecosystem intelligence.
+
+Visibility is cheap. Capital commitment is expensive.
+
+The practical test for any investor signal is: 
+*"Have they written checks recently, and do market 
+participants expect them to write more in the next 
+quarter or two?"*
+
+---
+
+### Tier 1 — Structured / machine-readable sources
+
+**Deal databases and investment registries**
+Closed deals are the clearest proof of motion. 
+Recent investments — closed in the last 3 to 12 
+months — are the single most reliable indicator 
+of active deployment. What matters is not one 
+announcement but a pattern: frequency, recency, 
+check size alignment with stated strategy, and 
+whether new deals are happening alongside 
+follow-ons.
+*Examples: Crunchbase, Dealroom, PitchBook, 
+national investment registries where available.*
+
+**Fund announcements and close notices**
+New fund launched, first close reached, final 
+close completed, or fresh capital commitments 
+announced — these are structural signals that 
+indicate deployment pressure and timeline. 
+A firm that has just reached final close 
+is under real pacing pressure to deploy.
+*Sources: press releases, LP announcement 
+notices, regulatory filings where applicable.*
+
+**Regulatory and company filings**
+In many jurisdictions, investment vehicles 
+file disclosures that reveal fund size, 
+portfolio composition, and capital status. 
+These are underutilised but highly reliable 
+when available.
+
+---
+
+### Tier 2 — Semi-structured / scrapable sources
+
+**Portfolio company announcements**
+Portfolio behavior is a rich secondary signal. 
+Reserves being deployed, follow-on rounds 
+supported, bridge rounds funded, and new 
+platform hires all indicate an investor 
+actively managing and backing their 
+portfolio — which correlates strongly 
+with new deployment activity.
+
+**Hiring signals**
+Investment associate or principal hiring, 
+portfolio talent roles, or geographic 
+expansion hiring are strong indicators 
+of active deployment intent. A firm 
+hiring deal-facing staff is preparing 
+to do more deals.
+*Sources: LinkedIn, company career pages.*
+
+**Accelerator and program partnerships**
+Formal partnerships with accelerators, 
+corporate innovation programs, and 
+ecosystem operators indicate structured 
+deal flow appetite — the investor is 
+actively building pipeline, not just 
+waiting to be approached.
+
+**Event participation patterns**
+Not sponsorship or speaking — those are 
+visibility signals. The meaningful signal 
+is which investors are repeatedly attending 
+founder-facing events, demo days, and 
+sector-specific convenings. Attendance 
+pattern over time is more reliable 
+than any single appearance.
+
+**Partner and principal activity patterns**
+Who is visibly taking founder meetings, 
+reappearing across warm introductions, 
+and showing up in deal-adjacent contexts. 
+This requires network observation rather 
+than database scraping — but it is a 
+high-quality signal when systematically 
+collected through ecosystem intermediaries.
+
+---
+
+### Tier 3 — Unstructured / harder to capture
+
+**Founder chatter and market reputation**
+Repeated mentions in founder conversations — 
+"they moved fast," "they're pricing deals," 
+"they passed because their thesis is full" — 
+are among the most accurate real-time 
+deployment signals available. This 
+intelligence travels through trusted 
+networks before it appears anywhere 
+structured. Systematically collecting 
+it requires relationships with active 
+founders and accelerator managers.
+
+**Lawyer, co-investor, and angel networks**
+Lawyers closing deals, co-investors being 
+pulled into rounds, and angels syndicating 
+alongside institutional investors often 
+know who is truly moving before the 
+market does. These intermediaries hold 
+some of the most accurate investor 
+signals in any ecosystem — and are 
+almost never systematically engaged 
+as signal sources.
+
+**Data room and process behaviour**
+Turnaround speed on requests, depth of 
+due diligence questions, and whether 
+partners are pulled in quickly during 
+a process — these behaviours indicate 
+genuine deployment intent versus 
+exploratory conversation. Accessible 
+only through founder experience, 
+but consistently reliable.
+
+**Process and IC behaviour signals**
+Who is attending investment committee 
+preparation, how fast decisions are 
+moving, and whether partners are 
+re-engaging after initial meetings — 
+these are internal signals that surface 
+through ecosystem intermediary 
+relationships rather than any 
+public source.
+
+---
+
+### Who inside an investment firm holds the signal
+
+The answer depends on what you need to know:
+
+**Managing partner / GP**
+Best signal on true conviction, check-writing 
+authority, fund pacing, and whether they can 
+actually get a deal through IC. The ultimate 
+deployment decision sits here.
+
+**Principal**
+Often the best real-time read on what is 
+live right now. Close enough to active 
+processes to know who is moving and 
+at what speed. High-accuracy signal 
+on current pipeline.
+
+**Associate**
+Good for pipeline activity and early 
+stage filtering — less reliable on 
+whether the firm will ultimately commit.
+
+**CFO / investor relations**
+Strongest signal on fund status, reserves 
+pressure, and whether the firm is 
+structurally in a position to deploy. 
+Less externally visible but highly 
+accurate on capital availability.
+
+**Platform / community / scout-facing roles**
+Useful for access and relationship mapping — 
+not reliable for deployment readiness.
+
+**The most accurate combination:**
+The deal-owning partner, validated by 
+the principal running active processes. 
+This combination tells you both whether 
+the firm can invest and whether the 
+firm is investing now.
+
+Simple decision rule for signal collection:
+- Want to know if the firm is active at all 
+  → look at recent deal patterns
+- Want to know if a specific opportunity 
+  is real → reach the principal running 
+  the process
+- Want to know if the fund has room and 
+  urgency → infer from partner behaviour, 
+  confirm through ecosystem intermediaries
+
+---
+
+### The visibility trap
+
+The biggest mistake in investor signal 
+collection is confusing ecosystem 
+visibility with deployment readiness.
+
+An investor can be highly visible — 
+publishing content, sponsoring events, 
+taking meetings, appearing on panels — 
+while barely deploying capital. 
+Visibility is a brand activity. 
+Deployment is a financial activity. 
+The signals for each are completely 
+different.
+
+An investor who is truly active leaves 
+a specific trail:
+- Fresh checks at consistent cadence
+- Fast process with real partner engagement
+- Consistent market mentions from founders 
+  and intermediaries
+- Internal people behaving under real 
+  pacing pressure
+
+EII signal collection must be designed 
+to detect this trail — not to measure 
+visibility proxies.
+
+---
+
+### Intent scoring
+
+| Intent level | Description | Signal indicators |
+|---|---|---|
+| **Inactive** | No recent deployment, fund fully deployed or between funds | No new deals in 12+ months, no fund activity |
+| **Monitoring** | Present in ecosystem, not actively deploying | Event attendance, content activity, taking exploratory meetings |
+| **Active pipeline** | Building deal flow, conducting due diligence | Associate activity, accelerator partnerships, founder meetings increasing |
+| **Deploying** | Writing checks at consistent cadence | Recent deals closed, pattern of new investments, principal-led active processes |
+| **Under pressure** | Recent fund close, pacing requirements | New fund announced or closed, hiring, accelerated meeting cadence |
+
+The goal of the collection layer is to identify 
+investors at **Deploying** or **Under pressure** 
+levels — these are the signals most immediately 
+actionable for startups seeking capital.
+
+---
+
+### Normalising signals into a common schema
+
+The minimum viable schema for an investor signal:
+
+- **Fund status** — deploying, between funds, 
+  raising, fully deployed
+- **Active thesis** — sectors, stages, 
+  geographies, business model types
+- **Check size range** — minimum and maximum 
+  typical ticket
+- **Development phase alignment** — which 
+  Startup Commons phases they focus on
+- **Recent deal cadence** — number of new 
+  investments in last 6 and 12 months
+- **Deployment intent level** — using 
+  the scoring above
+- **Signal source and date** — 
+  for freshness assessment
+- **Confidence score** — higher when 
+  corroborated by deal data plus 
+  ecosystem intermediary intelligence
+
+---
+
+### Recommended starting point
+
+For ecosystems beginning to build this layer, 
+the highest signal-to-noise starting point is:
+
+1. **Deal databases** — recent investment 
+   patterns are the most reliable 
+   deployment signal available
+2. **Fund announcements** — structural 
+   signals of deployment pressure 
+   and timeline
+3. **Ecosystem intermediary intelligence** 
+   — accelerator managers, angels, 
+   and lawyers who observe investor 
+   behaviour directly
+
+These three combined give a significantly 
+more accurate picture of who is actually 
+deploying than any amount of monitoring 
+of investor social media or event presence.
+
+---
+
+### KPIs for this signal type
+
+| KPI | What it measures |
+|---|---|
+| Number of actively deploying investors | Volume of investors confirmed at Deploying level or above |
+| Deal cadence by investor | Frequency of new investments per investor — trend over time |
+| Stage and phase coverage | Which Startup Commons phases have strong investor signal vs. funding gaps |
+| Thesis freshness | How recently each investor's stated thesis has been validated by actual deals |
+| Geographic deployment concentration | Where capital is actually flowing vs. where it is claimed to flow |
+| Intermediary corroboration rate | Share of investor signals validated by at least one ecosystem intermediary — higher corroboration = higher confidence |
+| Startup connection rate | Share of identified active investors that result in actual founder introductions — the ultimate validation |
 
 ### 9. Banks
 *Coming soon*
