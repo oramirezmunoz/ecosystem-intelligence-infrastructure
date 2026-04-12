@@ -56,7 +56,286 @@ for how to contribute.
 in the Actor Taxonomy.*
 
 ### 1. Public Entities
-*Coming soon*
+
+*City, regional, and national bodies with competencies and 
+responsibilities to develop the innovation and entrepreneurship 
+ecosystem.*
+
+---
+
+### What signals to look for
+
+The most valuable public entity signal for EII purposes is 
+**genuine commitment to ecosystem development** — identifying 
+which institutions have not just announced intentions but have 
+specific budgets, plans, and responsible parties in place. 
+Political announcements without these three elements are 
+noise, not signal.
+
+A secondary but equally important signal is **resource 
+availability** — open calls, funded programs, procurement 
+opportunities, and policy changes that are immediately 
+actionable for other ecosystem actors.
+
+---
+
+### Tier 1 — Structured / machine-readable sources
+
+**Government budget documents and appropriations**
+The most reliable commitment signal available. When a 
+public entity allocates a specific budget line to 
+innovation and entrepreneurship ecosystem development, 
+that is a behavioural signal that outweighs any 
+political announcement. Budget documents are public 
+in most jurisdictions and structured enough to 
+parse systematically.
+
+**Official tenders and procurement portals**
+Public procurement notices for innovation-related 
+services, ecosystem programs, and support 
+infrastructure are explicit, time-bound demand 
+signals with structured data. Pre-commercial 
+procurement and innovation partnerships are 
+particularly relevant.
+*Examples: TED (EU-wide), national procurement 
+portals in most countries.*
+
+**Government program databases and registries**
+Official registries of active programs, grants, 
+and support instruments. These represent 
+committed, funded signals — not proposals 
+or intentions.
+*Examples: national innovation agency program 
+catalogues, regional development fund registries, 
+EU structural fund databases.*
+
+**Parliamentary and legislative records**
+New legislation, policy frameworks, and 
+parliamentary debates signal the direction 
+of institutional priorities — often 6 to 
+18 months before they translate into 
+funded programs.
+
+---
+
+### Tier 2 — Semi-structured / scrapable sources
+
+**Official policy documents and strategy papers**
+National and regional innovation strategies, 
+smart specialisation strategies, and economic 
+development plans. These name priorities 
+explicitly — but must be cross-referenced 
+with budget data to distinguish genuine 
+commitments from aspirational documents.
+
+**Government portal announcements and news**
+Official communication channels — ministry 
+websites, agency newsrooms, press releases. 
+Useful for tracking new program launches, 
+deadline announcements, and policy changes. 
+High frequency but variable reliability — 
+always cross-reference with budget data.
+
+**Annual and performance reports**
+Program outcome reports, agency annual 
+reports, and audit publications. These 
+are among the most underutilised signal 
+sources — they reveal what is actually 
+working, what is being discontinued, 
+and where gaps exist in the current 
+support landscape.
+
+**Coalition and partnership announcements**
+When a city joins an international innovation 
+network, a region signs an MOU with a 
+private actor, or a national agency 
+co-funds a program with industry — 
+these are strong behavioural signals 
+of genuine commitment that go beyond 
+political statements.
+*Examples: membership in EU innovation 
+networks, bilateral cooperation agreements, 
+public-private co-funding announcements.*
+
+**Event participation and convening activity**
+Which public entities convene, sponsor, 
+or send senior representation to 
+ecosystem events is a reliable 
+indicator of active engagement — 
+particularly when the same entity 
+appears consistently over time.
+
+---
+
+### Tier 3 — Unstructured / harder to capture
+
+**Political speeches and public statements**
+Useful for early directional signals — 
+what politicians are talking about 
+today often becomes policy in 12 to 
+24 months. Requires consistent 
+monitoring and cross-referencing 
+with budget and legislative signals 
+to assess credibility.
+
+**Audit and evaluation reports**
+Independent evaluations of public programs 
+are PDF-heavy and inconsistently published, 
+but carry high-quality signal when parsed — 
+particularly for understanding what 
+instruments have failed and what 
+gaps remain unaddressed.
+
+**Informal intelligence from intermediaries**
+Ecosystem operators, chambers of commerce, 
+and industry associations often have 
+direct relationships with civil servants 
+and agency directors. Their reading of 
+institutional priorities is frequently 
+more accurate than any official 
+document — but requires structured 
+collection through trusted intermediary 
+relationships.
+
+---
+
+### Who inside a public entity holds the signal
+
+The answer varies significantly by level:
+
+**At national level**
+- Ministry officials and senior civil servants 
+  responsible for innovation policy — hold 
+  the strategic direction signal
+- National innovation agency directors and 
+  program managers — hold the operational 
+  signal closest to implementation
+- Budget office officials — hold the 
+  commitment signal
+
+**At regional level**
+- Regional development agency directors 
+  and program officers — typically the 
+  most operationally accurate source
+- Regional government economic development 
+  leads — strategic direction
+
+**At city level**
+- City economic development officers — 
+  often the most direct and accessible 
+  source of actionable signal
+- Mayor's office innovation leads — 
+  where these roles exist, they hold 
+  the highest-priority signals
+
+**Universal principle:** the civil servant 
+or program officer with operational 
+responsibility for a specific instrument 
+is almost always a more accurate signal 
+source than the political leader announcing 
+it. Political announcements set direction — 
+operational staff determine what actually 
+gets implemented.
+
+---
+
+### Commitment vs. announcement: the critical distinction
+
+The single most important analytical task 
+when processing public entity signals is 
+distinguishing genuine commitment from 
+political positioning. A reliable 
+commitment signal requires all three 
+of the following:
+
+1. **Specific budget allocation** — a named 
+   budget line, not a general aspiration
+2. **Defined plan or instrument** — a specific 
+   program, tender, or policy mechanism, 
+   not a strategy document
+3. **Named responsible party** — an 
+   identifiable person or unit with 
+   accountability for delivery
+
+Announcements that lack any of these three 
+elements should be classified as directional 
+signals only — useful for anticipating 
+future instruments but not actionable 
+in the near term.
+
+---
+
+### Intent scoring
+
+| Intent level | Description | Signal indicators |
+|---|---|---|
+| **Directional** | Political intent stated, no operational follow-through yet | Strategy documents, speeches, policy frameworks without budget |
+| **Planning** | Budget allocated, instrument under design | Budget line exists, tender preparation underway |
+| **Active** | Instrument live, accepting applications | Open calls, active procurement, running programs |
+| **Mature** | Track record of delivery, recurring commitment | Multi-year programs, performance reports published, renewed budget cycles |
+
+The goal of the collection layer is to identify 
+public entities at **Active** level or above — 
+these are the signals most immediately actionable 
+for other ecosystem actors seeking support, 
+partnerships, or funding.
+
+---
+
+### Normalising signals into a common demand schema
+
+The minimum viable schema for a public entity 
+signal includes:
+
+- **Instrument type** — grant, tender, 
+  policy, regulatory change, program
+- **Target actor types** — who the 
+  instrument is designed to serve
+- **Development phase relevance** — 
+  which Startup Commons phases 
+  this instrument addresses
+- **Budget and scale** — where available
+- **Geographic scope** — city, regional, 
+  national, supranational
+- **Timeline** — open dates, deadlines, 
+  program duration
+- **Commitment level** — using the 
+  scoring above
+- **Signal source and date** — 
+  for freshness assessment
+
+---
+
+### Recommended starting point
+
+For ecosystems beginning to build this layer, 
+the highest signal-to-noise starting point is:
+
+1. **Official procurement portals** — 
+   structured, explicit, time-bound
+2. **Program databases and open calls** — 
+   immediately actionable for other actors
+3. **Budget documents** — the most reliable 
+   commitment signal available
+
+These three alone, systematically monitored, 
+would give any ecosystem operator a 
+significantly more accurate picture of 
+public entity activity than currently 
+exists in most ecosystems.
+
+---
+
+### KPIs for this signal type
+
+| KPI | What it measures |
+|---|---|
+| Number of active instruments by level | Volume of live, actionable support across city / regional / national |
+| Commitment score distribution | Share of signals at each intent level — directional vs. active |
+| Budget coverage by development phase | Which Startup Commons phases are well-funded vs. underserved |
+| Instrument freshness | Average age of signals — policy landscapes shift and stale data misleads |
+| Geographic coverage | Which territories have strong public entity signal vs. gaps |
+| Utilisation rate | Share of identified instruments actually accessed by ecosystem actors — gap between availability and awareness |
 
 ### 2. Universities
 *Coming soon*
