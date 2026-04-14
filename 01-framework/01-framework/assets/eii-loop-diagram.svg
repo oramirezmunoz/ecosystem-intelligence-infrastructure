@@ -1,0 +1,61 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/>
+    </marker>
+    <style>
+      .title { font: 700 28px Arial, Helvetica, sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 16px Arial, Helvetica, sans-serif; fill: #475569; }
+      .label { font: 700 18px Arial, Helvetica, sans-serif; fill: #0f172a; }
+      .small { font: 400 14px Arial, Helvetica, sans-serif; fill: #475569; }
+      .box { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; }
+      .loop { stroke: #334155; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+      .accent { fill: #e2e8f0; stroke: #94a3b8; stroke-width: 2; rx: 16; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1400" height="520" fill="#ffffff"/>
+  <text x="700" y="48" text-anchor="middle" class="title">Ecosystem Intelligence Infrastructure is a Continuous Intelligence Loop</text>
+  <text x="700" y="76" text-anchor="middle" class="subtitle">Not a one-way pipeline. Distribution creates action, and action creates new signals that feed the system again.</text>
+
+  <!-- Top row -->
+  <rect class="box" x="80" y="130" width="160" height="80" rx="18"/>
+  <text x="160" y="165" text-anchor="middle" class="label">Sharing</text>
+  <text x="160" y="188" text-anchor="middle" class="small">Trust, consent, incentives</text>
+
+  <rect class="box" x="290" y="130" width="160" height="80" rx="18"/>
+  <text x="370" y="165" text-anchor="middle" class="label">Collection</text>
+  <text x="370" y="188" text-anchor="middle" class="small">Capture ecosystem signals</text>
+
+  <rect class="box" x="500" y="130" width="160" height="80" rx="18"/>
+  <text x="580" y="165" text-anchor="middle" class="label">Aggregation</text>
+  <text x="580" y="188" text-anchor="middle" class="small">Reveal patterns and gaps</text>
+
+  <rect class="box" x="710" y="130" width="160" height="80" rx="18"/>
+  <text x="790" y="165" text-anchor="middle" class="label">Translation</text>
+  <text x="790" y="188" text-anchor="middle" class="small">Make intelligence meaningful</text>
+
+  <rect class="box" x="920" y="130" width="160" height="80" rx="18"/>
+  <text x="1000" y="165" text-anchor="middle" class="label">Distribution</text>
+  <text x="1000" y="188" text-anchor="middle" class="small">Deliver into workflows</text>
+
+  <!-- Bottom accent -->
+  <rect class="accent" x="525" y="330" width="350" height="92" rx="16"/>
+  <text x="700" y="370" text-anchor="middle" class="label">New Signals</text>
+  <text x="700" y="394" text-anchor="middle" class="small">Actions, reactions, needs, opportunities, feedback</text>
+
+  <!-- Arrows top -->
+  <path class="loop" d="M 240 170 H 288"/>
+  <path class="loop" d="M 450 170 H 498"/>
+  <path class="loop" d="M 660 170 H 708"/>
+  <path class="loop" d="M 870 170 H 918"/>
+
+  <!-- Arrow down from distribution to new signals -->
+  <path class="loop" d="M 1000 212 C 1000 270, 900 300, 820 330"/>
+
+  <!-- Arrow back from new signals to sharing -->
+  <path class="loop" d="M 525 376 C 360 470, 170 430, 130 214"/>
+
+  <!-- Governance note -->
+  <text x="700" y="476" text-anchor="middle" class="subtitle">Governance sustains the loop across all layers.</text>
+</svg>
