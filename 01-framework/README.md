@@ -97,7 +97,7 @@ That loop is what makes an ecosystem progressively more aware, more adaptive, an
 
 ## The EII Loop
 
-![EII continuous intelligence loop](assets/eii-loop-diagram.svg)
+![EII continuous intelligence loop](assets/eii-loop-diagram.png)
 
 EII should not be understood as a one-way pipeline. Distribution creates action, and action creates new signals that feed the system again. That is why EII is a continuous intelligence loop, not a linear process.
 
