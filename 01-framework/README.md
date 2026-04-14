@@ -95,6 +95,12 @@ This means EII is a continuous intelligence loop:
 
 That loop is what makes an ecosystem progressively more aware, more adaptive, and more capable of coordinated action over time.
 
+## The EII Loop
+
+![EII continuous intelligence loop](assets/eii-loop-diagram.svg)
+
+EII should not be understood as a one-way pipeline. Distribution creates action, and action creates new signals that feed the system again. That is why EII is a continuous intelligence loop, not a linear process.
+
 ---
 
 ## How to Read This Section
