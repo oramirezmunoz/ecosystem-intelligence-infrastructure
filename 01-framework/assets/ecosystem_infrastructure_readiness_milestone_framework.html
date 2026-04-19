@@ -1,0 +1,133 @@
+
+<style>
+  .eirm-wrap { font-family: var(--font-sans); padding: 2.5rem 2.5rem 2rem; background: #F6F4EE; border-radius: 12px; max-width: 640px; margin: 0 auto; }
+  .eirm-eyebrow { font-size: 11px; letter-spacing: 0.12em; color: #7B5EA7; font-weight: 500; text-transform: uppercase; margin: 0 0 0.75rem; }
+  .eirm-heading { font-family: var(--font-serif); font-size: 28px; font-weight: 700; line-height: 1.2; color: #1C3A2F; margin: 0 0 0.5rem; }
+  .eirm-sub { font-style: italic; font-size: 13px; color: #5A5A50; margin: 0 0 2rem; line-height: 1.5; }
+  .eirm-timeline { position: relative; padding-left: 0; }
+  .eirm-line { position: absolute; left: 58px; top: 12px; bottom: 12px; width: 1.5px; background: #D5D2C8; }
+  .eirm-step { display: flex; gap: 0; margin-bottom: 1.6rem; position: relative; }
+  .eirm-step-left { width: 72px; flex-shrink: 0; display: flex; align-items: flex-start; gap: 6px; padding-top: 2px; }
+  .eirm-step-num { font-size: 11px; color: #9B9B8E; font-weight: 400; width: 36px; text-align: right; padding-top: 2px; }
+  .eirm-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; margin-top: 2px; position: relative; z-index: 1; }
+  .dot-scope { background: #22A77A; }
+  .dot-rules { background: #6460C8; }
+  .dot-data { background: #D4912A; }
+  .dot-evidence { background: #C94E38; }
+  .eirm-content { flex: 1; }
+  .eirm-cat { font-size: 10.5px; letter-spacing: 0.1em; font-weight: 600; text-transform: uppercase; margin: 0 0 2px; }
+  .cat-scope { color: #22A77A; }
+  .cat-rules { color: #6460C8; }
+  .cat-data { color: #D4912A; }
+  .cat-evidence { color: #C94E38; }
+  .eirm-title { font-family: var(--font-serif); font-size: 17px; font-weight: 700; color: #1C1C18; margin: 0 0 4px; line-height: 1.25; }
+  .eirm-desc { font-size: 12.5px; color: #4A4A42; line-height: 1.55; margin: 0 0 8px; }
+  .eirm-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { font-size: 11px; font-weight: 500; padding: 2px 10px; border-radius: 20px; }
+  .tag-scope { background: #D4F0E5; color: #0F6E56; }
+  .tag-rules { background: #E4E3F8; color: #3C3489; }
+  .tag-data { background: #FAE9CA; color: #633806; }
+  .tag-evidence { background: #FAEAE6; color: #7B2D1D; }
+  .tag-gate { background: #E5E3DB; color: #3A3A30; }
+  .eirm-legend { display: flex; gap: 14px; margin-top: 1.5rem; padding-top: 1.2rem; border-top: 1px solid #D5D2C8; align-items: center; }
+  .leg-item { display: flex; align-items: center; gap: 5px; font-size: 11.5px; color: #4A4A42; }
+  .leg-dot { width: 9px; height: 9px; border-radius: 50%; }
+  .eirm-footer { font-style: italic; font-size: 12px; color: #7A7A6E; text-align: center; margin-top: 1.2rem; }
+</style>
+<div class="eirm-wrap">
+  <p class="eirm-eyebrow">Ecosystem infrastructure readiness — milestone framework</p>
+  <h1 class="eirm-heading">Eight deliverables, one gate:<br>no ecosystem infrastructure budget moves until all exist</h1>
+  <p class="eirm-sub">Complete scope before rules. Rules before data. Data before evidence.<br>The sequence is not a suggestion.</p>
+
+  <div class="eirm-timeline">
+    <div class="eirm-line"></div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 1</span><div class="eirm-dot dot-scope"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-scope">Scope</p>
+        <p class="eirm-title">Use-case brief</p>
+        <p class="eirm-desc">Define what the infrastructure is actually for. Who participates, what they exchange, and why they'd show up. Without this, every downstream decision has no anchor.</p>
+        <div class="eirm-tags"><span class="tag tag-scope">Scope phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 2</span><div class="eirm-dot dot-scope"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-scope">Scope</p>
+        <p class="eirm-title">Stakeholder map</p>
+        <p class="eirm-desc">Name every party who sends or receives value in the ecosystem. Corporates, startups, SMEs, intermediaries, public institutions, research organisations — map all sides before assuming you know who it is.</p>
+        <div class="eirm-tags"><span class="tag tag-scope">Scope phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 3</span><div class="eirm-dot dot-rules"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-rules">Rules</p>
+        <p class="eirm-title">Rulebook v0.1</p>
+        <p class="eirm-desc">First draft of what is allowed, what triggers a match, and what doesn't. Not final — but written. An ecosystem without written rules is a network pretending to be one.</p>
+        <div class="eirm-tags"><span class="tag tag-rules">Rules phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 4</span><div class="eirm-dot dot-rules"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-rules">Rules</p>
+        <p class="eirm-title">Sharing rules</p>
+        <p class="eirm-desc">Who sees what, and when. Defines the trust architecture. Any actor sharing intent signals needs to know the rules before they'll share anything real.</p>
+        <div class="eirm-tags"><span class="tag tag-rules">Rules phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 5</span><div class="eirm-dot dot-data"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-data">Data</p>
+        <p class="eirm-title">Data inventory</p>
+        <p class="eirm-desc">Catalogue what signals already exist, where they live, and how structured they are. Passive interest, active collaborations, procurement history, funding signals — inventory first, ingest second.</p>
+        <div class="eirm-tags"><span class="tag tag-data">Data phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 6</span><div class="eirm-dot dot-data"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-data">Data</p>
+        <p class="eirm-title">Trust checklist</p>
+        <p class="eirm-desc">Before any data moves, verify consent, provenance, and access rights. The checklist is the paper trail that makes the infrastructure legally and operationally defensible.</p>
+        <div class="eirm-tags"><span class="tag tag-data">Data phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 7</span><div class="eirm-dot dot-evidence"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-evidence">Evidence</p>
+        <p class="eirm-title">Exchange test</p>
+        <p class="eirm-desc">Run one real exchange end-to-end. Not a demo. Not a simulation. One actor, one counterpart, one outcome — observed and documented. The moment the infrastructure stops being a plan.</p>
+        <div class="eirm-tags"><span class="tag tag-evidence">Evidence phase</span></div>
+      </div>
+    </div>
+
+    <div class="eirm-step" style="margin-bottom: 0;">
+      <div class="eirm-step-left"><span class="eirm-step-num">Step 8</span><div class="eirm-dot dot-evidence"></div></div>
+      <div class="eirm-content">
+        <p class="eirm-cat cat-evidence">Evidence</p>
+        <p class="eirm-title">Scale readiness</p>
+        <p class="eirm-desc">Assess what breaks if participation triples. Infrastructure, governance, support. If the answer is "we'll figure it out," the ecosystem is not ready. If it's written down, it might be.</p>
+        <div class="eirm-tags"><span class="tag tag-evidence">Evidence phase</span><span class="tag tag-gate">Budget gate</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="eirm-legend">
+    <div class="leg-item"><div class="leg-dot" style="background:#22A77A;"></div>Scope</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#6460C8;"></div>Rules</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#D4912A;"></div>Data</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#C94E38;"></div>Evidence</div>
+  </div>
+  <p class="eirm-footer">When all eight exist, the ecosystem infrastructure question has an honest answer.</p>
+</div>
